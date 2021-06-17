@@ -1,10 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "f+CZyzSEa0DfI0vRO1DgT3OXS7FJPJlZlrxvVzI2/fMpNSehKo0k9xZLB6GcFb72QvmGWR/L9g3u676HoRlqHA==",
+  "dgSpecHash": "2Hx28KKOu3zNboBvSoJCtiAugDPD7MqLj+EKhyrSC5bheFhGW+h1NnMWhN5pZbDKbEPjZe1YJ4M9kmOPKuWWfQ==",
   "success": true,
   "projectFilePath": "D:\\Projects\\TDT\\UNSD.TradeDataTool\\TDT.FileService\\TDT.FileService.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\crc32.net\\1.2.0\\crc32.net.1.2.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\minio\\3.1.13\\minio.3.1.13.nupkg.sha512",
+    "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\restsharp\\106.10.1\\restsharp.106.10.1.nupkg.sha512",
+    "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\system.reactive\\4.0.0\\system.reactive.4.0.0.nupkg.sha512",
+    "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\system.reactive.linq\\4.0.0\\system.reactive.linq.4.0.0.nupkg.sha512",
+    "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
     "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
   ],
   "logs": []
