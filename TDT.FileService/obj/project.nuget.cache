@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f+CZyzSEa0DfI0vRO1DgT3OXS7FJPJlZlrxvVzI2/fMpNSehKo0k9xZLB6GcFb72QvmGWR/L9g3u676HoRlqHA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\TDT\\UNSD.TradeDataTool\\TDT.FileService\\TDT.FileService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
+    "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
