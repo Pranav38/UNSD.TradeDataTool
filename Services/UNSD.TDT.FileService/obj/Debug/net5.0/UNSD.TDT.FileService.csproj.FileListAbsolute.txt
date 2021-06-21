@@ -7,10 +7,17 @@ D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.
 D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\UNSD.TDT.FileService.dll
 D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\ref\UNSD.TDT.FileService.dll
 D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\UNSD.TDT.FileService.pdb
+D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\Crc32.NET.dll
 D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\Minio.dll
+D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\RestSharp.dll
 D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\System.Reactive.dll
+D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\System.Reactive.Linq.dll
+D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\bin\Debug\net5.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\obj\Debug\net5.0\UNSD.TDT.FileService.csprojAssemblyReference.cache
 D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\obj\Debug\net5.0\UNSD.TDT.FileService.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\obj\Debug\net5.0\UNSD.TDT.FileService.AssemblyInfoInputs.cache
 D:\Projects\TDT\UNSD.TradeDataTool\Services\UNSD.TDT.FileService\obj\Debug\net5.0\UNSD.TDT.FileService.AssemblyInfo.cs
