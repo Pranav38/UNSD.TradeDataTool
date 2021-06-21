@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\TDT\\UNSD.TradeDataTool\\Services\\UNSD.TDT.FileService\\UNSD.TDT.FileService.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\TDT\\UNSD.TradeDataTool\\Services\\UNSD.TDT.FileService\\UNSD.TDT.FileService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\TDT\\UNSD.TradeDataTool\\Services\\UNSD.TDT.FileService\\UNSD.TDT.FileService.csproj",
+        "projectName": "UNSD.TDT.FileService",
+        "projectPath": "D:\\Projects\\TDT\\UNSD.TradeDataTool\\Services\\UNSD.TDT.FileService\\UNSD.TDT.FileService.csproj",
+        "packagesPath": "C:\\Users\\omprakash.kurmi\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\TDT\\UNSD.TradeDataTool\\Services\\UNSD.TDT.FileService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\omprakash.kurmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Projects\\OneApp.MasterData\\src\\UNW.OneApp.MasterData.Command.API.Proxies\\bin\\Debug": {},
+          "D:\\Projects\\OneApp.MasterData\\src\\UNW.OneApp.MasterData.Query.API.Proxies\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://unw-dev.pkgs.visualstudio.com/_packaging/UNW.Nexus/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "minio": {
+              "target": "Package",
+              "version": "[3.1.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
